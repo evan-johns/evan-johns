@@ -26,6 +26,7 @@ I’m a full-stack web developer based in Toledo, Ohio. I specialize in creating
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-4A90E2?style=plastic&logo=supabase&logoColor=white)
@@ -77,14 +78,4 @@ I’m a full-stack web developer based in Toledo, Ohio. I specialize in creating
 
 <div align="center">
 
-## Connect with Me
-
-</div>
-
-<div align="center">
-
-[![Portfolio Website](https://img.shields.io/badge/Portfolio%20Website-000000?style=plastic&logo=portfolio&logoColor=white)](https://edjcode.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:evandjohns@gmail.com)
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=plastic&logo=codewars&logoColor=white)](https://codewars.com/users/evan-johns)
+## Connect
