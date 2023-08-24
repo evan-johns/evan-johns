@@ -44,10 +44,10 @@ I’m a full-stack web developer based in Toledo, Ohio. I specialize in creating
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Ellissinema Podcast</h3>
-        <br />
         <a target="_blank" href="https://ellissinema.netlify.app/">
             <img src="images/ellissinema-site.gif" width="100%" alt="Ellissinema Podcast"/>
         </a>
+        <br />
         <br />
         <p align="center">
           <a href="https://github.com/evan-johns/ellissinema" target="_blank">
