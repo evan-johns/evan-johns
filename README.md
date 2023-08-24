@@ -50,9 +50,12 @@ I’m a full-stack web developer based in Toledo, Ohio. I specialize in creating
         </a>
         <br />
         <p align="center">
+          <a href="https://github.com/evan-johns/ellissinema" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-164C78?style=plastic&logo=github" height=25>
+          </a>
           <a href="https://ellissinema.netlify.app/" target="_blank">
             <img src="https://img.shields.io/badge/Website-164C78?style=plastic&logo=link&logoColor=white" height=25>
-          </a>  
+          </a>
         </p>
         <p><strong>React, Next.js, TailwindCSS</strong> - Browse and enjoy Ellissinema Podcast episodes directly on the website or from your favorite podcast app!</p>
     </td>
