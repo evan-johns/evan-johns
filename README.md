@@ -81,4 +81,19 @@ I’m a full-stack web developer based in Toledo, Ohio. I specialize in creating
 
 <div align="center">
 
-## Connect
+## Connect with Me
+
+</div>
+
+<div align="center">
+
+[![Portfolio Website](https://img.shields.io/badge/Portfolio%20Website-000000?style=plastic&logo=portfolio&logoColor=white)](https://edjcode.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)](https://github.com/evan-johns)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+[![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:evandjohns@gmail.com)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=plastic&logo=codewars&logoColor=white)](https://codewars.com/users/evan-johns)
+
+</div>
+
+
