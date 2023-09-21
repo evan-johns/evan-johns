@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there, I'm Evan! 👋
+# Hi there, I'm Evan! Thanks for checking out my GitHub. 🙂
 
-I’m a full-stack web developer based in Toledo, Ohio. I specialize in creating web applications with TypeScript and a combination of powerful JavaScript libraries and frameworks such as React, Next.js, Node, and TailwindCSS. I’m passionate about building beautiful, user-friendly, and highly functional web applications that help businesses exceed their goals.
+I'm a full-stack web developer based in Toledo, Ohio. I specialize in creating web applications and static sites in C# and JavaScript! I have extensive knowledge of the .NET framework and expertise in JavaScript frameworks such as Next.js with React, Node.js, Express.js, and jQuery. My passion is building beautiful, user-friendly, and highly functional web applications that help users and businesses exceed their goals.
 
 📧 Email: evandjohns@gmail.com
 
@@ -27,6 +27,8 @@ I’m a full-stack web developer based in Toledo, Ohio. I specialize in creating
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white)  
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jquery&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-4A90E2?style=plastic&logo=supabase&logoColor=white)
@@ -59,7 +61,7 @@ I’m a full-stack web developer based in Toledo, Ohio. I specialize in creating
             <img src="https://img.shields.io/badge/Website-164C78?style=plastic&logo=link&logoColor=white" height=25>
           </a>
         </p>
-        <p><strong>React, Next.js, TailwindCSS, JavaScript</strong> - Browse and enjoy Ellissinema Podcast episodes directly on the website or from your favorite podcast app!</p>
+        <p><strong>React, Next.js, TailwindCSS, JavaScript</strong> - Browse and enjoy podcast episodes directly on the website or from your favorite podcast app!</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">EMDR Connect</h3>
