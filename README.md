@@ -63,23 +63,6 @@ I'm a full-stack web developer based in Toledo, Ohio. I specialize in creating w
         </p>
         <p><strong>React, Next.js, TailwindCSS, JavaScript</strong> - Browse and enjoy podcast episodes directly on the website or from your favorite podcast app!</p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">EMDR Connect</h3>
-        <br />
-      <a target="_blank" href="#">
-            <img src="./images/emdrconnect.gif" width="100%"  alt="EMDR Connect"/>
-        </a>
-        <br />
-        <p align="center">
-          <a href="#" target="blank">
-            <img src="https://img.shields.io/badge/Repo-164C78?style=plastic&logo=github" height=25>
-          </a>
-          <a href="#" target="blank">
-            <img src="https://img.shields.io/badge/Website-164C78?style=plastic&logo=link&logoColor=white" height=25>
-          </a> 
-        </p>
-        <p><strong>React, Next.js, TailwindCSS, PostgreSQL, Supabase </strong> - Connect securely with your counselor for telehealth EMDR therapy sessions.</p>
-    </td>
   </tr>
 </table>
 
