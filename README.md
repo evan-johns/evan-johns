@@ -66,7 +66,7 @@ I'm a full-stack web developer based in Toledo, Ohio. I specialize in creating w
     <td width="50%" valign="top">
       <h3 align="center">TaxPal</h3>
         <a target="_blank" href="https://tax-pal.netlify.app/">
-            <img src="images/ellissinema-site.gif" width="100%" alt="TaxPal Landing Page"/>
+            <img src="images/taxpal-site.gif" width="100%" alt="TaxPal Landing Page"/>
         </a>
         <br />
         <br />
