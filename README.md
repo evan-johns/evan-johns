@@ -63,7 +63,25 @@ I'm a full-stack web developer based in Toledo, Ohio. I specialize in creating w
         </p>
         <p><strong>React, Next.js, TailwindCSS, JavaScript</strong> - Browse and enjoy podcast episodes directly on the website or from your favorite podcast app!</p>
     </td>
+    <td width="50%" valign="top">
+      <h3 align="center">TaxPal</h3>
+        <a target="_blank" href="https://tax-pal.netlify.app/">
+            <img src="images/ellissinema-site.gif" width="100%" alt="TaxPal Landing Page"/>
+        </a>
+        <br />
+        <br />
+        <p align="center">
+          <a href="https://github.com/evan-johns/taxpal" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-164C78?style=plastic&logo=github" height=25>
+          </a>
+          <a href="https://tax-pal.netlify.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Website-164C78?style=plastic&logo=link&logoColor=white" height=25>
+          </a>
+        </p>
+        <p><strong>React, Next.js, TailwindCSS, JavaScript</strong> - Company website for a bookkeeping SaaS company.</p>
+    </td>
   </tr>
+  
 </table>
 
 <div align="center">
