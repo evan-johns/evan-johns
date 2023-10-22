@@ -78,7 +78,7 @@ I'm a full-stack web developer based in Toledo, Ohio. I specialize in creating w
             <img src="https://img.shields.io/badge/Website-164C78?style=plastic&logo=link&logoColor=white" height=25>
           </a>
         </p>
-        <p><strong>React, Next.js, TailwindCSS, JavaScript</strong> - Company website for a bookkeeping SaaS company.</p>
+        <p><strong>React, Next.js, TailwindCSS, JavaScript</strong> - Company website for a bookkeeping SaaS.</p>
     </td>
   </tr>
   
